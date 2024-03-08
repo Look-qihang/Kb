@@ -1,4 +1,4 @@
-﻿namespace CsharpDemo
+﻿namespace ConsoleApplication1
 {
     internal class Program
     {

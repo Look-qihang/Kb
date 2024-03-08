@@ -1,6 +1,0 @@
-D:\CodeDemo\.NetDemo\kkaiyuan\Kb\CsharpDemo\1-变量\bin\Debug\_1_变量.exe
-D:\CodeDemo\.NetDemo\kkaiyuan\Kb\CsharpDemo\1-变量\bin\Debug\_1_变量.pdb
-D:\CodeDemo\.NetDemo\kkaiyuan\Kb\CsharpDemo\1-变量\obj\Debug\1-变量.csproj.AssemblyReference.cache
-D:\CodeDemo\.NetDemo\kkaiyuan\Kb\CsharpDemo\1-变量\obj\Debug\1-变量.csproj.CoreCompileInputs.cache
-D:\CodeDemo\.NetDemo\kkaiyuan\Kb\CsharpDemo\1-变量\obj\Debug\_1_变量.exe
-D:\CodeDemo\.NetDemo\kkaiyuan\Kb\CsharpDemo\1-变量\obj\Debug\_1_变量.pdb

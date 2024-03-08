@@ -5,11 +5,11 @@
     <PropertyGroup>
         <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
         <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-        <ProjectGuid>{9BE8A3BC-E6A1-4C5E-AF4B-31FDD3CC2B35}</ProjectGuid>
+        <ProjectGuid>{63265264-91D0-4653-AF42-AA836F785FC5}</ProjectGuid>
         <OutputType>Exe</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>_1_变量</RootNamespace>
-        <AssemblyName>_1_变量</AssemblyName>
+        <RootNamespace>ConsoleApplication1</RootNamespace>
+        <AssemblyName>ConsoleApplication1</AssemblyName>
         <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
         <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

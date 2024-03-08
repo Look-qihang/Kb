@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CsharpDemo")]
+[assembly: AssemblyTitle("ConsoleApplication2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CsharpDemo")]
+[assembly: AssemblyProduct("ConsoleApplication2")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("575EDFC6-20FE-447B-9123-921ACA9B7D4F")]
+[assembly: Guid("5CDBDFBF-3A5F-4184-83C8-0765CCF05260")]
 
 // Version information for an assembly consists of the following four values:
 //

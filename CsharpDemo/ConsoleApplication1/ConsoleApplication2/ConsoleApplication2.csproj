@@ -5,11 +5,11 @@
     <PropertyGroup>
         <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
         <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-        <ProjectGuid>{575EDFC6-20FE-447B-9123-921ACA9B7D4F}</ProjectGuid>
+        <ProjectGuid>{5CDBDFBF-3A5F-4184-83C8-0765CCF05260}</ProjectGuid>
         <OutputType>Exe</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>CsharpDemo</RootNamespace>
-        <AssemblyName>CsharpDemo</AssemblyName>
+        <RootNamespace>ConsoleApplication2</RootNamespace>
+        <AssemblyName>ConsoleApplication2</AssemblyName>
         <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
         <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
